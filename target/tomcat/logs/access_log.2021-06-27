@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:58 +0530] "GET /springmvc/home HTTP/1.1" 200 9644 http-bio-8080-exec-1 589
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/employees/MariaSontas.jpg HTTP/1.1" 500 3911 http-bio-8080-exec-7 112
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/employees/JessicaNewton.jpg HTTP/1.1" 500 3911 http-bio-8080-exec-5 272
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/css/style.css HTTP/1.1" 500 3911 http-bio-8080-exec-3 380
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/employees/AngelaHaston.jpg HTTP/1.1" 500 3911 http-bio-8080-exec-8 205
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/hpluslogo.svg HTTP/1.1" 500 3911 http-bio-8080-exec-2 428
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/employees/HenryTwill.jpg HTTP/1.1" 500 3911 http-bio-8080-exec-4 418
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/employees/PhiTang.jpg HTTP/1.1" 500 3911 http-bio-8080-exec-6 437
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:38:59 +0530] "GET /springmvc/images/employees/MichaelLewiston.jpg HTTP/1.1" 500 3911 http-bio-8080-exec-9 206
+0:0:0:0:0:0:0:1 - - [27/Jun/2021:21:39:06 +0530] "GET /springmvc/css/style.css HTTP/1.1" 500 3911 http-bio-8080-exec-10 19
